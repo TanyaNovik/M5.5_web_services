@@ -1,0 +1,11 @@
+{
+  "name": "M5.5_web_services",
+  "version": "1.0.0",
+  "scripts": {
+    "run": "node request.js"
+  },
+  "dependencies": {
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  }
+}
